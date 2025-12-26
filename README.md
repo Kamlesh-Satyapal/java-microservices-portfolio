@@ -47,6 +47,17 @@
 - MCP server integration
 - AI agent triggering backend workflows
 
+
+### 🔹 Job Agent – Automated Job Parsing & Alert System
+👉 [View Project](./projects/job-agent)
+
+- Automated ingestion of job alerts (LinkedIn / Email / Text)
+- Multi-strategy parsing based on content length & structure
+- NLP-based classification of roles and skills
+- AI-assisted ranking and filtering of jobs
+- Extensible parser design using Strategy Pattern
+
+**Tech Focus:** Java, Spring Boot, NLP, Regex, AI Agents, Design Patterns
 ---
 
 ## 📚 Case Studies
