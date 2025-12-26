@@ -35,7 +35,7 @@
 - Performance comparison with REST
 
 ### 🔹 API Gateway & Rate Limiter
-👉 [View Project](./projects/api-gateway-rate-limiter)
+👉 [View Project]((https://github.com/Kamlesh-Satyapal/Rate_Limiter_service))
 
 - Local & Redis-based rate limiting
 - Hybrid approach
