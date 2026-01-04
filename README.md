@@ -68,7 +68,7 @@
 ---
 
 ## 📄 Resume
-📥 [Download Resume](./resume/Kamlesh_Singh_Resume.pdf)
+📥 [Download Resume][https://github.com/Kamlesh-Satyapal/java-microservices-portfolio/blob/main/2026_Microservice_Java_TechLead.pdf]
 
 ---
 
