@@ -19,6 +19,13 @@
 
 ## 📂 Featured Projects
 
+
+### 🔹 Fraud-Detection-Service
+👉 [https://github.com/Kamlesh-Satyapal/Fraud-Detection-Service]
+
+- Simple Fraud detection based upon rule configured from configuration file.
+- Phase based incremental service
+
 ### 🔹 Microservices Reference Architecture
 👉 [View Project](./projects/microservices-reference)
 
